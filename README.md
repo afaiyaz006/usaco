@@ -1,2 +1,2 @@
 # usaco
- Solutions of usaco problems I've solved so far.
+ Solutions of <a href="https://usaco.guide/">Usaco</a> problems I've solved so far.
