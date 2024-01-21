@@ -1,2 +1,2 @@
 # usaco
- Solutions of UVA problems I've solved so far.
+ Solutions of usaco problems I've solved so far.
